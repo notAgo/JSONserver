@@ -15,7 +15,7 @@
         "title": "Post 1",
         "desc":"Lorem ipsum...",
         "brand": "nike",
-        "price": "12$",
+        "price": "120$",
         "img": "http://lorempixel.com/g/700/400"
     },
     {
@@ -23,7 +23,7 @@
         "title": "Post 2",
         "desc":"Lorem ipsum...",
         "brand": "nike",
-        "price": "12$",
+        "price": "1200$",
         "img": "http://lorempixel.com/g/700/400"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Post 3",
         "desc":"Lorem ipsum...",
         "brand": "nike",
-        "price": "12$",
+        "price": "12000$",
         "img": "http://lorempixel.com/g/700/400"
     }
             ],
