@@ -14,7 +14,7 @@
         "id":1,
         "title": "Post 1",
         "desc":"Lorem ipsum...",
-        "brand": "nike",
+        "brand": "adidas",
         "price": "120$",
         "img": "http://lorempixel.com/g/700/400"
     },
@@ -22,7 +22,7 @@
         "id":2,
         "title": "Post 2",
         "desc":"Lorem ipsum...",
-        "brand": "nike",
+        "brand": "hm",
         "price": "1200$",
         "img": "http://lorempixel.com/g/700/400"
     },
@@ -30,7 +30,7 @@
         "id":3,
         "title": "Post 3",
         "desc":"Lorem ipsum...",
-        "brand": "nike",
+        "brand": "gucci",
         "price": "12000$",
         "img": "http://lorempixel.com/g/700/400"
     }
@@ -49,7 +49,7 @@
         "id":1,
         "title":"post 1",
         "desc": "Lorem ipsum e grande Tched.",
-        "brand":"nike",
+        "brand":"adidas",
         "price": "120$",
         "img": "http://lorempixel.com/g/700/400"
         },
@@ -57,7 +57,7 @@
         "id":2,
         "title":"post 2",
         "desc": "Lorem ipsum e grande Tched.",
-        "brand":"nike",
+        "brand":"hm",
         "price": "1200$",
         "img": "http://lorempixel.com/g/700/400"
         },
@@ -65,9 +65,23 @@
         "id":3,
         "title":"post 3",
         "desc": "Lorem ipsum e grande Tched.",
-        "brand":"nike",
+        "brand":"gucci",
         "price": "12000$",
         "img": "http://lorempixel.com/g/700/400"
         }
+    ]
+    
+    "brand":[
+    {
+        "name":"nike",
+    },
+    {
+        "name":"adidas",
+    },{
+        "name":"hm",
+    },
+    {
+        "name":"gucci",
+    }
     ]
 }
