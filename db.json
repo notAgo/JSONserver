@@ -55,84 +55,53 @@
   "singleitems": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "Lewis Hamilton",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "nike",
-      "price": "12$",
+      "team": "Mercedes",
+      "salary": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Valtteri Bottas",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
-      "price": "13$",
+      "team": "Mercedes",
+      "salary": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
-      "title": "Post 3",
+      "title": "Sebastian Vettel",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
+      "team": "Ferrari",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 4,
-      "title": "Post 4",
+      "title": "Charles Leclerc",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "mike",
-      "price": "16$",
+      "team": "Ferrari",
+      "salary": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 5,
-      "title": "Post 5",
+      "title": "Max Verstappen",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
+      "team": "Red Bull",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 6,
-      "title": "Post 6",
+      "title": "Pierre Gasly",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": ".",
-      "brand": "daje",
-      "price": "16$",
+      "team": "Red Bull",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     }
+    
   ],
   "herobanner": [
     {
@@ -153,22 +122,14 @@
   ],
   "brands": [
     {
-      "brand": "nike"
+      "team": "Mercedes"
     },
     {
-      "brand": "adidas"
+      "team": "Ferrari"
     },
     {
-      "brand": "iceice"
-    },
-    {
-      "brand": "mike"
-    },
-    {
-      "brand": "daje"
-    },
-    {
-      "brand": "gang"
+      "team": "Red Bull"
     }
+    
   ]
 }
