@@ -50,7 +50,7 @@
         "title":"post 1",
         "desc": "Lorem ipsum e grande Tched.",
         "brand":"nike",
-        "price": "12$",
+        "price": "120$",
         "img": "http://lorempixel.com/g/700/400"
         },
         {
@@ -58,7 +58,7 @@
         "title":"post 2",
         "desc": "Lorem ipsum e grande Tched.",
         "brand":"nike",
-        "price": "12$",
+        "price": "1200$",
         "img": "http://lorempixel.com/g/700/400"
         },
         {
@@ -66,7 +66,7 @@
         "title":"post 3",
         "desc": "Lorem ipsum e grande Tched.",
         "brand":"nike",
-        "price": "12$",
+        "price": "12000$",
         "img": "http://lorempixel.com/g/700/400"
         }
     ]
