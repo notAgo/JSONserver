@@ -47,7 +47,15 @@
       "team": "Red Bull",
       "salary": "#10",
       "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
-    }
+    },
+    {
+      "id": 7,
+      "title": "Valtteri Bottas",
+      "desc": "Vittorie: 5",
+      "team": "Mercedes",
+      "salary": "#77",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWmIc_MdocsbVC6-fWmhQnyrTkSQuVY-k6POquYv3_5-qDg_D"
+    },
     
   ],
   
@@ -100,7 +108,15 @@
       "team": "Red Bull",
       "salary": "#10",
       "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
-    }
+    },
+    {
+      "id": 7,
+      "title": "Valtteri Bottas",
+      "desc": "GP disputati: 124 (5 vinti)",
+      "team": "Mercedes",
+      "salary": "#77",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWmIc_MdocsbVC6-fWmhQnyrTkSQuVY-k6POquYv3_5-qDg_D"
+    },
     
   ],
   "herobanner": [
