@@ -47,6 +47,14 @@
       "team": "Red Bull",
       "salary": "#10",
       "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pierre Gasly",
+      "desc": "Vittorie: -",
+      "team": "Red Bull",
+      "salary": "#10",
+      "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
     }
     
     
@@ -96,6 +104,14 @@
     },
     {
       "id": 6,
+      "title": "Pierre Gasly",
+      "desc": "GP disputati: 31 (- vinti)",
+      "team": "Red Bull",
+      "salary": "#10",
+      "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
+    },
+    {
+      "id": 7,
       "title": "Pierre Gasly",
       "desc": "GP disputati: 31 (- vinti)",
       "team": "Red Bull",
