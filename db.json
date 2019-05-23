@@ -58,7 +58,7 @@
       "title": "Lewis Hamilton",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Mercedes",
-      "salary": "12$",
+      "salary": "#44",
       "img": "https://www.f1world.it/news/wp-content/uploads/2019/04/lewis-hamilton.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "title": "Valtteri Bottas",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Mercedes",
-      "salary": "13$",
+      "salary": "#77",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWmIc_MdocsbVC6-fWmhQnyrTkSQuVY-k6POquYv3_5-qDg_D"
     },
     {
@@ -74,7 +74,7 @@
       "title": "Sebastian Vettel",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Ferrari",
-      "salary": "16$",
+      "salary": "#5",
       "img": "https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/93a/image/93a3cc6bff575e36015f1bce32336ac9.jpg"
     },
     {
@@ -82,7 +82,7 @@
       "title": "Charles Leclerc",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Ferrari",
-      "salary": "16$",
+      "salary": "#13",
       "img": "https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/image16x9.img.1536.high.jpg"
     },
     {
@@ -90,7 +90,7 @@
       "title": "Max Verstappen",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Red Bull",
-      "salary": "16$",
+      "salary": "#33",
       "img": "https://cc-media-foxit.fichub.com/image/fox-it-foxsports/d7461c9f-ec5a-4acc-a79e-2ee6ba1d8b45/max-verstappen-maxw-644.jpg"
     },
     {
@@ -98,7 +98,7 @@
       "title": "Pierre Gasly",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "team": "Red Bull",
-      "salary": "16$",
+      "salary": "#10",
       "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
     }
     
