@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Lewis Hamilton",
-      "desc": "Vittorie: n",
+      "desc": "Vittorie: 100",
       "team": "Mercedes",
       "salary": "12$",
       "img": "http://lorempixel.com/g/700/400/"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Valtteri Bottas",
-      "desc": "Vittorie",
+      "desc": "Vittorie: 50",
       "team": "Mercedes",
       "salary": "13$",
       "img": "http://lorempixel.com/g/700/400/"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Sebastian Vettel",
-      "desc": "Vittorie",
+      "desc": "Vittorie: 50",
       "team": "Ferrari",
       "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Charles Leclerc",
-      "desc": "Vittorie",
+      "desc": "Vittorie: 100",
       "team": "Ferrari",
       "salary": "16$",
       "img": "http://lorempixel.com/g/700/400/"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Max Verstappen",
-      "desc": "Vittorie",
+      "desc": "Vittorie: 20",
       "team": "Red Bull",
       "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "title": "Pierre Gasly",
-      "desc": "Vittorie",
+      "desc": "Vittorie: 10",
       "team": "Red Bull",
       "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
