@@ -6,7 +6,7 @@
       "desc": "Vittorie: 100",
       "team": "Mercedes",
       "salary": "#44",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://www.f1world.it/news/wp-content/uploads/2019/04/lewis-hamilton.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "desc": "Vittorie: 50",
       "team": "Mercedes",
       "salary": "#77",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWmIc_MdocsbVC6-fWmhQnyrTkSQuVY-k6POquYv3_5-qDg_D"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "desc": "Vittorie: 100",
       "team": "Ferrari",
       "salary": "#16",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/93a/image/93a3cc6bff575e36015f1bce32336ac9.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "desc": "Vittorie: 20",
       "team": "Red Bull",
       "salary": "#33",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://cc-media-foxit.fichub.com/image/fox-it-foxsports/d7461c9f-ec5a-4acc-a79e-2ee6ba1d8b45/max-verstappen-maxw-644.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "desc": "Vittorie: 10",
       "team": "Red Bull",
       "salary": "#10",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
     }
     
   ],
