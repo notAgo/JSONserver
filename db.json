@@ -1,5 +1,5 @@
 {
-  "items": [
+  "drivers": [
     {
       "id": 1,
       "title": "Lewis Hamilton",
@@ -52,7 +52,7 @@
   ],
   
   
-  "singleitems": [
+  "singledrivers": [
     {
       "id": 1,
       "title": "Lewis Hamilton",
@@ -120,7 +120,7 @@
       "img": "https://via.placeholder.com/900x350"
     }
   ],
-  "brands": [
+  "teams": [
     {
       "team": "Mercedes"
     },
