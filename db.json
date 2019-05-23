@@ -1,87 +1,203 @@
-
 {
-    "items":[
-        
+  "items": [
     {
-        "id":0,
-        "title": "Post 0",
-        "desc":"Lorem ipsum...",
-        "brand": "nike",
-        "price": "12$",
-        "img": "http://lorempixel.com/g/700/400"
+      "id": 1,
+      "title": "Post 1",
+      "desc": "Lorem ipsum..",
+      "brand": "nike",
+      "price": "12$",
+      "img": "http://lorempixel.com/g/700/400/"
     },
     {
-        "id":1,
-        "title": "Post 1",
-        "desc":"Lorem ipsum...",
-        "brand": "adidas",
-        "price": "120$",
-        "img": "http://lorempixel.com/g/700/400"
+      "id": 2,
+      "title": "Post 2",
+      "desc": "Lorem ipsum ",
+      "brand": "gang",
+      "price": "13$",
+      "img": "http://lorempixel.com/g/700/400/"
     },
     {
-        "id":2,
-        "title": "Post 2",
-        "desc":"Lorem ipsum...",
-        "brand": "hm",
-        "price": "1200$",
-        "img": "http://lorempixel.com/g/700/400"
+      "id": 3,
+      "title": "Post 3",
+      "desc": "Lorem ipsum ",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
     },
     {
-        "id":3,
-        "title": "Post 3",
-        "desc":"Lorem ipsum...",
-        "brand": "gucci",
-        "price": "12000$",
-        "img": "http://lorempixel.com/g/700/400"
+      "id": 4,
+      "title": "Post 4",
+      "desc": "Lorem ipsum..",
+      "brand": "mike",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "desc": "Lorem ipsum..",
+      "brand": "gang",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 8,
+      "title": "Post 8",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 9,
+      "title": "Post 9",
+      "desc": "Lorem ipsum..",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 10,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "daje",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
     }
-            ],
-
-    "singleitems":[
-        {
-        "id":0,
-        "title":"post 0",
-        "desc": "Lorem ipsum e grande Tched.",
-        "brand":"nike",
-        "price": "12$",
-        "img": "http://lorempixel.com/g/700/400"
-        },
-        {
-        "id":1,
-        "title":"post 1",
-        "desc": "Lorem ipsum e grande Tched.",
-        "brand":"adidas",
-        "price": "120$",
-        "img": "http://lorempixel.com/g/700/400"
-        },
-        {
-        "id":2,
-        "title":"post 2",
-        "desc": "Lorem ipsum e grande Tched.",
-        "brand":"hm",
-        "price": "1200$",
-        "img": "http://lorempixel.com/g/700/400"
-        },
-        {
-        "id":3,
-        "title":"post 3",
-        "desc": "Lorem ipsum e grande Tched.",
-        "brand":"gucci",
-        "price": "12000$",
-        "img": "http://lorempixel.com/g/700/400"
-        }
-    ],
-    
-    "brand":[
+  ],
+  "singleitems": [
     {
-        "name":"nike"
+      "id": 1,
+      "title": "Post 1",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "nike",
+      "price": "12$",
+      "img": "http://lorempixel.com/g/700/400/"
     },
     {
-        "name":"adidas"
-    },{
-        "name":"hm"
+      "id": 2,
+      "title": "Post 2",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "gang",
+      "price": "13$",
+      "img": "http://lorempixel.com/g/700/400/"
     },
     {
-        "name":"gucci"
+      "id": 3,
+      "title": "Post 3",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "mike",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "gang",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 8,
+      "title": "Post 8",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 9,
+      "title": "Post 9",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "brand": "iceice",
+      "price": "16$",
+      "img": "http://lorempixel.com/g/700/400/"
+    },
+    {
+      "id": 10,
+      "title": "Post 10",
+      "desc": ".",
+      "brand": "daje",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
     }
-    ]
+  ],
+  "herobanner": [
+    {
+      "img": "https://via.placeholder.com/900x350"
+    },
+    {
+      "img": "http://lorempixel.com/g/900/350/"
+    },
+    {
+      "img": "https://via.placeholder.com/900x350"
+    },
+    {
+      "img": "http://lorempixel.com/g/900/350/"
+    },
+    {
+      "img": "https://via.placeholder.com/900x350"
+    }
+  ],
+  "brands": [
+    {
+      "brand": "nike"
+    },
+    {
+      "brand": "adidas"
+    },
+    {
+      "brand": "iceice"
+    },
+    {
+      "brand": "mike"
+    },
+    {
+      "brand": "daje"
+    },
+    {
+      "brand": "gang"
+    }
+  ]
 }
