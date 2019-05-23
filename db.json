@@ -64,7 +64,7 @@
     {
       "id": 2,
       "title": "Valtteri Bottas",
-      "desc": "GP disputati: 284 (83 vinti)",
+      "desc": "GP disputati: 124 (5 vinti)",
       "team": "Mercedes",
       "salary": "#77",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWmIc_MdocsbVC6-fWmhQnyrTkSQuVY-k6POquYv3_5-qDg_D"
@@ -72,7 +72,7 @@
     {
       "id": 3,
       "title": "Sebastian Vettel",
-      "desc": "GP disputati: 284 (83 vinti)",
+      "desc": "GP disputati: 225 (52 vinti)",
       "team": "Ferrari",
       "salary": "#5",
       "img": "https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/93a/image/93a3cc6bff575e36015f1bce32336ac9.jpg"
@@ -80,7 +80,7 @@
     {
       "id": 4,
       "title": "Charles Leclerc",
-      "desc": "GP disputati: 284 (83 vinti)",
+      "desc": "GP disputati: 26 (- vinti)",
       "team": "Ferrari",
       "salary": "#13",
       "img": "https://www.formula1.com/content/fom-website/en/drivers/charles-leclerc/_jcr_content/image16x9.img.1536.high.jpg"
@@ -88,7 +88,7 @@
     {
       "id": 5,
       "title": "Max Verstappen",
-      "desc": "GP disputati: 284 (83 vinti)",
+      "desc": "GP disputati: 86 (5 vinti)",
       "team": "Red Bull",
       "salary": "#33",
       "img": "https://cc-media-foxit.fichub.com/image/fox-it-foxsports/d7461c9f-ec5a-4acc-a79e-2ee6ba1d8b45/max-verstappen-maxw-644.jpg"
@@ -96,7 +96,7 @@
     {
       "id": 6,
       "title": "Pierre Gasly",
-      "desc": "GP disputati: 284 (83 vinti)",
+      "desc": "GP disputati: 31 (- vinti)",
       "team": "Red Bull",
       "salary": "#10",
       "img": "https://cdn.cnn.com/cnnnext/dam/assets/180914123800-pierre-gasly-exlarge-169.jpg"
