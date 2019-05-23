@@ -2,85 +2,56 @@
   "items": [
     {
       "id": 1,
-      "title": "Post 1",
-      "desc": "Lorem ipsum..",
-      "brand": "nike",
-      "price": "12$",
+      "title": "Lewis Hamilton",
+      "desc": "Vittorie: n",
+      "team": "Mercedes",
+      "salary": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "desc": "Lorem ipsum ",
-      "brand": "gang",
-      "price": "13$",
+      "title": "Valtteri Bottas",
+      "desc": "Vittorie",
+      "team": "Mercedes",
+      "salary": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "desc": "Lorem ipsum ",
-      "brand": "iceice",
-      "price": "16$",
+      "title": "Sebastian Vettel",
+      "desc": "Vittorie",
+      "team": "Ferrari",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "desc": "Lorem ipsum..",
-      "brand": "mike",
-      "price": "16$",
+      "title": "Charles Leclerc",
+      "desc": "Vittorie",
+      "team": "Ferrari",
+      "salary": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 5,
-      "title": "Post 5",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
+      "title": "Max Verstappen",
+      "desc": "Vittorie",
+      "team": "Red Bull",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 6,
-      "title": "Post 6",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 7,
-      "title": "Post 7",
-      "desc": "Lorem ipsum..",
-      "brand": "gang",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 8,
-      "title": "Post 8",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 9,
-      "title": "Post 9",
-      "desc": "Lorem ipsum..",
-      "brand": "iceice",
-      "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
-    },
-    {
-      "id": 10,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "daje",
-      "price": "16$",
+      "title": "Pierre Gasly",
+      "desc": "Vittorie",
+      "team": "Red Bull",
+      "salary": "16$",
       "img": "https://via.placeholder.com/700x400"
     }
+    
   ],
+  
+  
   "singleitems": [
     {
       "id": 1,
