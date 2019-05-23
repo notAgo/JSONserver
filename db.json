@@ -1,13 +1,40 @@
 
 {
-    "items":[{
+    "items":[
+        
+    {
         "id":1,
         "title": "Post 1",
         "desc":"Lorem ipsum...",
         "brand": "nike",
         "price": "12$",
         "img": "http://lorempixel.com/g/700/400"
-    }],
+    },
+    {
+        "id":1,
+        "title": "Post 1",
+        "desc":"Lorem ipsum...",
+        "brand": "nike",
+        "price": "12$",
+        "img": "http://lorempixel.com/g/700/400"
+    },
+    {
+        "id":1,
+        "title": "Post 1",
+        "desc":"Lorem ipsum...",
+        "brand": "nike",
+        "price": "12$",
+        "img": "http://lorempixel.com/g/700/400"
+    },
+    {
+        "id":1,
+        "title": "Post 1",
+        "desc":"Lorem ipsum...",
+        "brand": "nike",
+        "price": "12$",
+        "img": "http://lorempixel.com/g/700/400"
+    }
+            ],
 
     "singleitems":[{
         "id":1,
